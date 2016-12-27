@@ -4,7 +4,7 @@
 
 	<groupId>com.appleframework</groupId>
 	<artifactId>apple-parent</artifactId>
-	<version>14</version>
+	<version>15</version>
 	<packaging>pom</packaging>
 	<name>apple-parent</name>
 	<url>http://maven.appleframework.com</url>
@@ -12,7 +12,7 @@
 	<properties>
 		<spring.version>4.2.0.RELEASE</spring.version>
 		<apple.version>0.1.6.RELEASE</apple.version>
-		<config.version>0.2.2.RELEASE</config.version>
+		<config.version>0.2.3.RELEASE</config.version>
 		<boot.version>0.3.1.RELEASE</boot.version>
 		<cache.version>0.3.2.RELEASE</cache.version>
 		<qos.version>0.0.6.RELEASE</qos.version>
