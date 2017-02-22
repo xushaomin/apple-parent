@@ -78,17 +78,37 @@
 			<!-- boot -->
 			<dependency>
 				<groupId>com.appleframework.boot</groupId>
+				<artifactId>apple-boot-java</artifactId>
+				<version>${boot.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.appleframework.boot</groupId>
+				<artifactId>apple-boot-config</artifactId>
+				<version>${boot.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.appleframework.boot</groupId>
 				<artifactId>apple-boot-spring</artifactId>
 				<version>${boot.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>com.appleframework.boot</groupId>
-				<artifactId>apple-boot-jetty</artifactId>
+				<artifactId>apple-boot-jetty8</artifactId>
 				<version>${boot.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>com.appleframework.boot</groupId>
-				<artifactId>apple-boot-tomcat</artifactId>
+				<artifactId>apple-boot-jetty9</artifactId>
+				<version>${boot.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.appleframework.boot</groupId>
+				<artifactId>apple-boot-tomcat8</artifactId>
+				<version>${boot.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.appleframework.boot</groupId>
+				<artifactId>apple-boot-tomcat9</artifactId>
 				<version>${boot.version}</version>
 			</dependency>
 
