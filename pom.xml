@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.appleframework</groupId>
 	<artifactId>apple-parent</artifactId>
-	<version>18</version>
+	<version>19</version>
 	<packaging>pom</packaging>
 	<name>apple-parent</name>
 	<url>http://maven.appleframework.com</url>
@@ -124,7 +124,7 @@
 			</dependency>
 			<dependency>
 				<groupId>com.appleframework.cache</groupId>
-				<artifactId>apple-cache-redis</artifactId>
+				<artifactId>apple-cache-jedis</artifactId>
 				<version>${cache.version}</version>
 			</dependency>
 			<dependency>
