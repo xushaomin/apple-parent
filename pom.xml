@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.appleframework</groupId>
 	<artifactId>apple-parent</artifactId>
-	<version>22</version>
+	<version>23</version>
 	<packaging>pom</packaging>
 	<name>apple-parent</name>
 	<url>http://maven.appleframework.com</url>
@@ -18,7 +18,7 @@
 		<jms.version>0.1.5.RELEASE</jms.version>
 		<rop.version>1.3.3.RELEASE</rop.version>
 		<orm.version>0.1.4.RELEASE</orm.version>
-		<id.version>0.0.9.RELEASE</id.version>
+		<id.version>0.1.0.RELEASE</id.version>
 		<data.version>0.1.2.RELEASE</data.version>
 		<event.version>0.0.2.RELEASE</event.version>
 		<async.version>0.0.2.RELEASE</async.version>
